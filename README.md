@@ -1,7 +1,3 @@
-# MoVie_Search_platform
-
-Description: 🎬 Modern movie search platform built with React and Tailwind CSS. Features real-time API-powered search, responsive design, and interactive modals. Integrates with movie database APIs for comprehensive film information.
-
 # Movie Search Platform
 
 A modern, responsive web application for searching and discovering movies with an intuitive user interface and detailed movie information display.
